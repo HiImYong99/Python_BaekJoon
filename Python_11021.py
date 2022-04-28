@@ -19,5 +19,3 @@ for _ in range(T):
     
 for v in range(0,len(A)):
     print(f'Case #{v+1}:',A[v]+B[v])
-
-print('연동')
