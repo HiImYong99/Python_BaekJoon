@@ -20,5 +20,4 @@ for _ in range(T):
 for v in range(0,len(A)):
     print(f'Case #{v+1}:',A[v]+B[v])
 
-
-#연동 test
+print('연동')
