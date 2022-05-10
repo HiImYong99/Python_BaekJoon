@@ -21,3 +21,11 @@ elif C>=A>=B:
     print(A)
 elif C>=B>=A:
     print(B)
+    
+    
+#sort 함수를 이용
+'''
+num_list = list(map(int, input().split()))
+num_list.sort()
+print(num_list[1])
+'''
